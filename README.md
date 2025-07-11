@@ -3,7 +3,7 @@
 <div align="center">
 
 ![Pine Script](https://img.shields.io/badge/Pine%20Script-v5-blue?style=for-the-badge&logo=tradingview&logoColor=white)
-![License](https://img.shields.io/badge/License-MPL%202.0-green?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge&logo=mit&logoColor=white)
 ![Trading](https://img.shields.io/badge/Trading-Strategy-gold?style=for-the-badge)
 
 *Strategi trading multi-indikator yang canggih dengan sistem weighted scoring untuk TradingView*
